@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Job Portal</title>
+    <link href="/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    <header class="bg-primary text-white p-3">
+        <h1>Job Portal</h1>
+    </header>
+    <div class="container mt-3">
+        @RenderBody()
+        <script src="~/lib/jquery/dist/jquery.min.js"></script>
+        <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+        <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+        @RenderSection("Scripts", required: false)
+    </div>
+    <footer class="bg-dark text-white p-3 text-center mt-3">
+        <p>&copy; 2025 Job Portal</p>
+    </footer>
+</body>
+</html>

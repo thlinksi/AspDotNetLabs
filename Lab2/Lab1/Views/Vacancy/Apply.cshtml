@@ -1,0 +1,12 @@
+﻿@model Lab2.Models.Application
+
+<h2>Apply for Vacancy</h2>
+<form asp-action="Apply" method="post">
+    <input type="hidden" asp-for="VacancyId" />
+    <div class="form-group">
+        <label asp-for="Resume">Your Resume</label>
+        <textarea asp-for="Resume" class="form-control" required></textarea>
+        <span asp-validation-for="Resume" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Apply</button>
+</form>

@@ -1,0 +1,30 @@
+﻿@model VacancyListViewModel
+
+<div class="row">
+    @foreach (var v in Model.Vacancies)
+    {
+        <div class="col-md-6 mb-3">
+            <div class="card">
+                <div class="card-body">
+                    <h3 class="card-title">@v.Title</h3>
+                    <p class="card-text">@v.Description</p>
+                    <p class="card-text"><strong>Company:</strong> @v.Company</p>
+                    <h4 class="card-text">@v.Salary.ToString("c")</h4>
+                    <a asp-controller="Vacancy" asp-action="Apply" asp-route-id="@v.VacancyId" class="btn btn-success">Apply</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+<a asp-controller="Vacancy" asp-action="MyApplications" class="btn btn-info">View My Applications</a>
+<nav aria-label="Page navigation">
+    <ul class="pagination">
+        @for (int i = 1; i <= Model.PagingInfo.TotalPages; i++)
+        {
+            <li class="page-item @(i == Model.PagingInfo.CurrentPage ? "active" : "")">
+                <a class="page-link" href="/Home/Index?page=@i">@i</a>
+            </li>
+        }
+    </ul>
+</nav>
+
