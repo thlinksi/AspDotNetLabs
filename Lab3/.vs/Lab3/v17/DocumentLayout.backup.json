@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab3\\lab1\\views\\vacancy\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|solutionrelative:lab1\\views\\vacancy\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab3\\lab1\\views\\vacancy\\editapplication.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|solutionrelative:lab1\\views\\vacancy\\editapplication.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab3\\lab1\\controllers\\vacancycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|solutionrelative:lab1\\controllers\\vacancycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab3\\lab1\\models\\viewmodels\\applicationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|solutionrelative:lab1\\models\\viewmodels\\applicationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab3\\lab1\\models\\viewmodels\\paginginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|solutionrelative:lab1\\models\\viewmodels\\paginginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab3\\lab1\\models\\viewmodels\\vacancylistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|solutionrelative:lab1\\models\\viewmodels\\vacancylistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab3\\lab1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|solutionrelative:lab1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab3\\lab1\\views\\shared\\components\\navigationmenuviewcomponent\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|solutionrelative:lab1\\views\\shared\\components\\navigationmenuviewcomponent\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab3\\lab1\\views\\shared\\vacancysummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|solutionrelative:lab1\\views\\shared\\vacancysummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab3\\lab1\\views\\shared\\components\\navigationmenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|solutionrelative:lab1\\views\\shared\\components\\navigationmenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab3\\lab1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|solutionrelative:lab1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Apply.cshtml",
+              "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Views\\Vacancy\\Apply.cshtml",
+              "RelativeDocumentMoniker": "Lab1\\Views\\Vacancy\\Apply.cshtml",
+              "ToolTip": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Views\\Vacancy\\Apply.cshtml*",
+              "RelativeToolTip": "Lab1\\Views\\Vacancy\\Apply.cshtml*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T16:20:17.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditApplication.cshtml",
+              "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Views\\Vacancy\\EditApplication.cshtml",
+              "RelativeDocumentMoniker": "Lab1\\Views\\Vacancy\\EditApplication.cshtml",
+              "ToolTip": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Views\\Vacancy\\EditApplication.cshtml",
+              "RelativeToolTip": "Lab1\\Views\\Vacancy\\EditApplication.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T16:16:24.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PagingInfo.cs",
+              "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Models\\ViewModels\\PagingInfo.cs",
+              "RelativeDocumentMoniker": "Lab1\\Models\\ViewModels\\PagingInfo.cs",
+              "ToolTip": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Models\\ViewModels\\PagingInfo.cs",
+              "RelativeToolTip": "Lab1\\Models\\ViewModels\\PagingInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:03:18.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationViewModel.cs",
+              "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Models\\ViewModels\\ApplicationViewModel.cs",
+              "RelativeDocumentMoniker": "Lab1\\Models\\ViewModels\\ApplicationViewModel.cs",
+              "ToolTip": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Models\\ViewModels\\ApplicationViewModel.cs",
+              "RelativeToolTip": "Lab1\\Models\\ViewModels\\ApplicationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:03:20.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VacancyListViewModel.cs",
+              "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Models\\ViewModels\\VacancyListViewModel.cs",
+              "RelativeDocumentMoniker": "Lab1\\Models\\ViewModels\\VacancyListViewModel.cs",
+              "ToolTip": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Models\\ViewModels\\VacancyListViewModel.cs",
+              "RelativeToolTip": "Lab1\\Models\\ViewModels\\VacancyListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:02:51.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VacancyController.cs",
+              "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Controllers\\VacancyController.cs",
+              "RelativeDocumentMoniker": "Lab1\\Controllers\\VacancyController.cs",
+              "ToolTip": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Controllers\\VacancyController.cs",
+              "RelativeToolTip": "Lab1\\Controllers\\VacancyController.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAACYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:56:48.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Views\\Shared\\Components\\NavigationMenuViewComponent\\Default.cshtml",
+              "RelativeDocumentMoniker": "Lab1\\Views\\Shared\\Components\\NavigationMenuViewComponent\\Default.cshtml",
+              "ToolTip": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Views\\Shared\\Components\\NavigationMenuViewComponent\\Default.cshtml",
+              "RelativeToolTip": "Lab1\\Views\\Shared\\Components\\NavigationMenuViewComponent\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T15:47:07.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lab1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T15:40:43.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NavigationMenuViewComponent.cs",
+              "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Views\\Shared\\Components\\NavigationMenuViewComponent.cs",
+              "RelativeDocumentMoniker": "Lab1\\Views\\Shared\\Components\\NavigationMenuViewComponent.cs",
+              "ToolTip": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Views\\Shared\\Components\\NavigationMenuViewComponent.cs",
+              "RelativeToolTip": "Lab1\\Views\\Shared\\Components\\NavigationMenuViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:39:52.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Lab1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T15:29:35.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VacancySummary.cshtml",
+              "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Views\\Shared\\VacancySummary.cshtml",
+              "RelativeDocumentMoniker": "Lab1\\Views\\Shared\\VacancySummary.cshtml",
+              "ToolTip": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Views\\Shared\\VacancySummary.cshtml",
+              "RelativeToolTip": "Lab1\\Views\\Shared\\VacancySummary.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T15:25:18.119Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

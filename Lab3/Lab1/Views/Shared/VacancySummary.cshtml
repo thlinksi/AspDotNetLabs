@@ -1,0 +1,12 @@
+﻿@model Lab3.Models.ViewModels.VacancyViewModel
+
+<div class="product-item">
+    <div>
+        <h3>@Model.Title</h3>
+        <p>Description: @Model.Description</p>
+        <p>Company: @Model.Company</p>
+        <p>Salary: @Model.Salary.ToString("N2") €</p>
+        <p>Category: @Model.Category</p>
+    </div>
+    <a class="btn btn-success" asp-controller="Vacancy" asp-action="Apply" asp-route-id="@Model.VacancyId">Apply</a>
+</div>

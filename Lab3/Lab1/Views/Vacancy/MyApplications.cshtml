@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Lab3.Models.ViewModels.ApplicationViewModel>
+
+<div class="row">
+    <div class="col-12">
+        <h2>My Applications</h2>
+        @if (ViewBag.Message != null)
+        {
+            <p>@ViewBag.Message</p>
+        }
+        @if (Model.Any())
+        {
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Vacancy</th>
+                        <th>Resume</th>
+                        <th>Applied Date</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var app in Model)
+                    {
+                        <tr>
+                            <td>@app.VacancyTitle</td>
+                            <td>@app.Resume</td>
+                            <td>@app.AppliedDate.ToShortDateString()</td>
+                            <td>
+                                <a asp-action="EditApplication" asp-controller="Vacancy" asp-route-id="@app.ApplicationId" class="btn btn-sm btn-primary">Edit</a>
+                                <form asp-action="DeleteApplication" asp-controller="Vacancy" asp-route-id="@app.ApplicationId" method="post" style="display:inline;">
+                                    <button type="submit" class="btn btn-sm btn-danger" onclick="return confirm('Are you sure you want to delete this application?');">Delete</button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+        else
+        {
+            <p>No applications found.</p>
+        }
+    </div>
+</div>

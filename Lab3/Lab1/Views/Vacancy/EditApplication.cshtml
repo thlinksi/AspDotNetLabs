@@ -1,0 +1,56 @@
+﻿@model Lab3.Models.Application
+
+<div class="row">
+    <div class="col-12">
+        <h2>Edit Application</h2>
+        <form asp-action="EditApplication" method="post" id="editForm">
+            <input type="hidden" asp-for="ApplicationId" />
+            <input type="hidden" asp-for="VacancyId" />
+            <input type="hidden" asp-for="CandidateId" />
+            <input type="hidden" asp-for="AppliedDate" />
+
+            <div class="form-group">
+                <label asp-for="Resume">Resume</label>
+                <textarea asp-for="Resume" class="form-control" rows="5" id="resumeInput"></textarea>
+                <span asp-validation-for="Resume" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Save</button>
+            <a asp-action="MyApplications" class="btn btn-secondary">Cancel</a>
+            <div id="draftStatus" class="text-muted mt-2"></div> 
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        const resumeInput = document.getElementById("resumeInput");
+        const draftStatus = document.getElementById("draftStatus");
+        let debounceTimer;
+
+        resumeInput.addEventListener("input", function () {
+            clearTimeout(debounceTimer); 
+            draftStatus.textContent = "Saving draft...";
+
+            debounceTimer = setTimeout(() => {
+                const formData = new FormData(document.getElementById("editForm"));
+                fetch('/Vacancy/SaveEditDraft', {
+                    method: 'POST',
+                    body: formData
+                })
+                .then(response => response.json())
+                .then(data => {
+                    if (data.success) {
+                        draftStatus.textContent = "Draft saved at " + new Date().toLocaleTimeString();
+                    } else {
+                        draftStatus.textContent = "Error saving draft";
+                    }
+                })
+                .catch(error => {
+                    console.error("Error:", error);
+                    draftStatus.textContent = "Error saving draft";
+                });
+            }, 1000); 
+        });
+    </script>
+}

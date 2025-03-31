@@ -1,0 +1,551 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab3\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|solutionrelative:lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab3\\lab1\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|solutionrelative:lab1\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab3\\lab1\\lab3.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|solutionrelative:lab1\\lab3.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab3\\lab1\\global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|solutionrelative:lab1\\global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab3\\lab1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|solutionrelative:lab1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab3\\lab1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|solutionrelative:lab1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab3\\lab1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|solutionrelative:lab1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab3\\lab1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|solutionrelative:lab1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab3\\lab1\\views\\vacancy\\editapplication.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|solutionrelative:lab1\\views\\vacancy\\editapplication.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab3\\lab1\\views\\vacancy\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|solutionrelative:lab1\\views\\vacancy\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab3\\lab1\\views\\vacancy\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|solutionrelative:lab1\\views\\vacancy\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab3\\lab1\\views\\vacancy\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|solutionrelative:lab1\\views\\vacancy\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab3\\lab1\\views\\vacancy\\_applicationsummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|solutionrelative:lab1\\views\\vacancy\\_applicationsummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab3\\lab1\\views\\shared\\vacancysummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|solutionrelative:lab1\\views\\shared\\vacancysummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab3\\lab1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|solutionrelative:lab1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab3\\lab1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|solutionrelative:lab1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab3\\lab1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|solutionrelative:lab1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab3\\lab1\\views\\shared\\components\\navigationmenuviewcomponent\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|solutionrelative:lab1\\views\\shared\\components\\navigationmenuviewcomponent\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab3\\lab1\\models\\vacancy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|solutionrelative:lab1\\models\\vacancy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab3\\lab1\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|solutionrelative:lab1\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab3\\lab1\\models\\jobdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|solutionrelative:lab1\\models\\jobdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab3\\lab1\\models\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|solutionrelative:lab1\\models\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab3\\lab1\\models\\employer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|solutionrelative:lab1\\models\\employer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab3\\lab1\\models\\efjobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|solutionrelative:lab1\\models\\efjobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab3\\lab1\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|solutionrelative:lab1\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab3\\lab1\\models\\viewmodels\\vacancylistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|solutionrelative:lab1\\models\\viewmodels\\vacancylistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab3\\lab1\\models\\viewmodels\\paginginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|solutionrelative:lab1\\models\\viewmodels\\paginginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab3\\lab1\\models\\viewmodels\\applicationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|solutionrelative:lab1\\models\\viewmodels\\applicationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab3\\lab1\\controllers\\vacancycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|solutionrelative:lab1\\controllers\\vacancycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab3\\lab1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|solutionrelative:lab1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab3\\lab1\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab3.csproj|solutionrelative:lab1\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Program.cs",
+              "RelativeDocumentMoniker": "Lab1\\Program.cs",
+              "ToolTip": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Program.cs",
+              "RelativeToolTip": "Lab1\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:36:09.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "libman.json",
+              "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\libman.json",
+              "RelativeDocumentMoniker": "Lab1\\libman.json",
+              "ToolTip": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\libman.json",
+              "RelativeToolTip": "Lab1\\libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-31T16:36:09.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lab3.csproj.Backup.tmp",
+              "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Lab3.csproj.Backup.tmp",
+              "RelativeDocumentMoniker": "Lab1\\Lab3.csproj.Backup.tmp",
+              "ToolTip": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Lab3.csproj.Backup.tmp",
+              "RelativeToolTip": "Lab1\\Lab3.csproj.Backup.tmp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-31T16:36:07.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "global.json",
+              "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\global.json",
+              "RelativeDocumentMoniker": "Lab1\\global.json",
+              "ToolTip": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\global.json",
+              "RelativeToolTip": "Lab1\\global.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-31T16:36:06.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Lab1\\appsettings.Development.json",
+              "ToolTip": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\appsettings.Development.json",
+              "RelativeToolTip": "Lab1\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-31T16:36:05.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\appsettings.json",
+              "RelativeDocumentMoniker": "Lab1\\appsettings.json",
+              "ToolTip": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\appsettings.json",
+              "RelativeToolTip": "Lab1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-31T16:36:03.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Lab1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Lab1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T16:36:01.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Lab1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Lab1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T16:36:00.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditApplication.cshtml",
+              "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Views\\Vacancy\\EditApplication.cshtml",
+              "RelativeDocumentMoniker": "Lab1\\Views\\Vacancy\\EditApplication.cshtml",
+              "ToolTip": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Views\\Vacancy\\EditApplication.cshtml",
+              "RelativeToolTip": "Lab1\\Views\\Vacancy\\EditApplication.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T16:35:53.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Views\\Vacancy\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Lab1\\Views\\Vacancy\\Create.cshtml.cs",
+              "ToolTip": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Views\\Vacancy\\Create.cshtml.cs",
+              "RelativeToolTip": "Lab1\\Views\\Vacancy\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:35:50.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Views\\Vacancy\\Create.cshtml",
+              "RelativeDocumentMoniker": "Lab1\\Views\\Vacancy\\Create.cshtml",
+              "ToolTip": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Views\\Vacancy\\Create.cshtml",
+              "RelativeToolTip": "Lab1\\Views\\Vacancy\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T16:35:47.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Apply.cshtml",
+              "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Views\\Vacancy\\Apply.cshtml",
+              "RelativeDocumentMoniker": "Lab1\\Views\\Vacancy\\Apply.cshtml",
+              "ToolTip": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Views\\Vacancy\\Apply.cshtml",
+              "RelativeToolTip": "Lab1\\Views\\Vacancy\\Apply.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T16:35:43.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ApplicationSummary.cshtml",
+              "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Views\\Vacancy\\_ApplicationSummary.cshtml",
+              "RelativeDocumentMoniker": "Lab1\\Views\\Vacancy\\_ApplicationSummary.cshtml",
+              "ToolTip": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Views\\Vacancy\\_ApplicationSummary.cshtml",
+              "RelativeToolTip": "Lab1\\Views\\Vacancy\\_ApplicationSummary.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T16:35:42.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VacancySummary.cshtml",
+              "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Views\\Shared\\VacancySummary.cshtml",
+              "RelativeDocumentMoniker": "Lab1\\Views\\Shared\\VacancySummary.cshtml",
+              "ToolTip": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Views\\Shared\\VacancySummary.cshtml",
+              "RelativeToolTip": "Lab1\\Views\\Shared\\VacancySummary.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T16:35:38.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Lab1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Lab1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T16:35:35.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lab1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T16:35:30.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Views\\Shared\\Components\\NavigationMenuViewComponent\\Default.cshtml",
+              "RelativeDocumentMoniker": "Lab1\\Views\\Shared\\Components\\NavigationMenuViewComponent\\Default.cshtml",
+              "ToolTip": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Views\\Shared\\Components\\NavigationMenuViewComponent\\Default.cshtml",
+              "RelativeToolTip": "Lab1\\Views\\Shared\\Components\\NavigationMenuViewComponent\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T16:35:26.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Lab1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T16:35:23.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Vacancy.cs",
+              "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Models\\Vacancy.cs",
+              "RelativeDocumentMoniker": "Lab1\\Models\\Vacancy.cs",
+              "ToolTip": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Models\\Vacancy.cs",
+              "RelativeToolTip": "Lab1\\Models\\Vacancy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:35:19.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "Lab1\\Models\\SeedData.cs",
+              "ToolTip": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Models\\SeedData.cs",
+              "RelativeToolTip": "Lab1\\Models\\SeedData.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:35:15.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "JobDbContext.cs",
+              "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Models\\JobDbContext.cs",
+              "RelativeDocumentMoniker": "Lab1\\Models\\JobDbContext.cs",
+              "ToolTip": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Models\\JobDbContext.cs",
+              "RelativeToolTip": "Lab1\\Models\\JobDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:35:13.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IJobRepository.cs",
+              "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Models\\IJobRepository.cs",
+              "RelativeDocumentMoniker": "Lab1\\Models\\IJobRepository.cs",
+              "ToolTip": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Models\\IJobRepository.cs",
+              "RelativeToolTip": "Lab1\\Models\\IJobRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:35:07.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Employer.cs",
+              "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Models\\Employer.cs",
+              "RelativeDocumentMoniker": "Lab1\\Models\\Employer.cs",
+              "ToolTip": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Models\\Employer.cs",
+              "RelativeToolTip": "Lab1\\Models\\Employer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:35:08.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EFJobRepository.cs",
+              "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Models\\EFJobRepository.cs",
+              "RelativeDocumentMoniker": "Lab1\\Models\\EFJobRepository.cs",
+              "ToolTip": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Models\\EFJobRepository.cs",
+              "RelativeToolTip": "Lab1\\Models\\EFJobRepository.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:35:01.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Application.cs",
+              "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Models\\Application.cs",
+              "RelativeDocumentMoniker": "Lab1\\Models\\Application.cs",
+              "ToolTip": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Models\\Application.cs",
+              "RelativeToolTip": "Lab1\\Models\\Application.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:34:59.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "VacancyListViewModel.cs",
+              "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Models\\ViewModels\\VacancyListViewModel.cs",
+              "RelativeDocumentMoniker": "Lab1\\Models\\ViewModels\\VacancyListViewModel.cs",
+              "ToolTip": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Models\\ViewModels\\VacancyListViewModel.cs",
+              "RelativeToolTip": "Lab1\\Models\\ViewModels\\VacancyListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:34:57.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PagingInfo.cs",
+              "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Models\\ViewModels\\PagingInfo.cs",
+              "RelativeDocumentMoniker": "Lab1\\Models\\ViewModels\\PagingInfo.cs",
+              "ToolTip": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Models\\ViewModels\\PagingInfo.cs",
+              "RelativeToolTip": "Lab1\\Models\\ViewModels\\PagingInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:34:55.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ApplicationViewModel.cs",
+              "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Models\\ViewModels\\ApplicationViewModel.cs",
+              "RelativeDocumentMoniker": "Lab1\\Models\\ViewModels\\ApplicationViewModel.cs",
+              "ToolTip": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Models\\ViewModels\\ApplicationViewModel.cs",
+              "RelativeToolTip": "Lab1\\Models\\ViewModels\\ApplicationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:34:48.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "VacancyController.cs",
+              "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Controllers\\VacancyController.cs",
+              "RelativeDocumentMoniker": "Lab1\\Controllers\\VacancyController.cs",
+              "ToolTip": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Controllers\\VacancyController.cs",
+              "RelativeToolTip": "Lab1\\Controllers\\VacancyController.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:34:41.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lab1\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lab1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:34:38.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CandidateController.cs",
+              "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Controllers\\CandidateController.cs",
+              "RelativeDocumentMoniker": "Lab1\\Controllers\\CandidateController.cs",
+              "ToolTip": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab3\\Lab1\\Controllers\\CandidateController.cs",
+              "RelativeToolTip": "Lab1\\Controllers\\CandidateController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:34:37.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
