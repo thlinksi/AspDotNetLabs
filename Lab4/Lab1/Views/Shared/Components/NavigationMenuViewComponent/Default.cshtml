@@ -1,0 +1,19 @@
+﻿@model Lab4.Components.NavigationMenuViewModel
+
+<div class="d-flex flex-column">
+    <a class="nav-link" asp-controller="Vacancy" asp-action="MyApplications">
+        My Applications
+        @if (Model.ApplicationCount > 0)
+        {
+            <span class="badge bg-primary">@Model.ApplicationCount</span>
+        }
+    </a>
+
+    <a class="nav-link @(string.IsNullOrEmpty(ViewContext.RouteData.Values["category"]?.ToString()) ? "active" : "")"
+       asp-controller="Vacancy" asp-action="Index" asp-route-category="">All Categories</a>
+    @foreach (var category in Model.Categories)
+    {
+        <a class="nav-link @(ViewContext.RouteData.Values["category"]?.ToString() == category ? "active" : "")"
+           asp-controller="Vacancy" asp-action="Index" asp-route-category="@category">@category</a>
+    }
+</div>
