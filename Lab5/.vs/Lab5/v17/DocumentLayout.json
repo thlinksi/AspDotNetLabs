@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab4.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab5\\lab1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab4.csproj|solutionrelative:lab1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab5.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab5\\lab1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab5.csproj|solutionrelative:lab1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab5.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab5\\lab1\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -19,20 +19,12 @@
       "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab5.csproj|solutionrelative:lab1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab4.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab5\\lab1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab4.csproj|solutionrelative:lab1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab5.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab5\\lab1\\models\\viewmodels\\paginginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab5.csproj|solutionrelative:lab1\\models\\viewmodels\\paginginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab5.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab5\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab5.csproj|solutionrelative:lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab4.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab5\\lab1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab4.csproj|solutionrelative:lab1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab5.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab5\\lab1\\controllers\\vacancyapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,28 +47,36 @@
       "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab5.csproj|solutionrelative:lab1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab4.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab5\\lab1\\models\\jobdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab4.csproj|solutionrelative:lab1\\models\\jobdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab5.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab5\\lab1\\views\\vacancy\\myapplications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab5.csproj|solutionrelative:lab1\\views\\vacancy\\myapplications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab4.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab5\\lab1\\views\\shared\\components\\navigationmenuviewcomponent\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab4.csproj|solutionrelative:lab1\\views\\shared\\components\\navigationmenuviewcomponent\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab5.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab5\\lab1\\views\\shared\\components\\navigationmenuviewcomponent\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab5.csproj|solutionrelative:lab1\\views\\shared\\components\\navigationmenuviewcomponent\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab4.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab5\\lab1\\views\\vacancy\\myapplications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab4.csproj|solutionrelative:lab1\\views\\vacancy\\myapplications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab5.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab5\\lab1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab5.csproj|solutionrelative:lab1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab4.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab5\\lab1\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab4.csproj|solutionrelative:lab1\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab5.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab5\\lab1\\views\\shared\\vacancysummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab5.csproj|solutionrelative:lab1\\views\\shared\\vacancysummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab4.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab5\\lab1\\models\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab4.csproj|solutionrelative:lab1\\models\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab5.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab5\\lab1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab5.csproj|solutionrelative:lab1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab4.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab5\\lab1\\views\\shared\\vacancysummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab4.csproj|solutionrelative:lab1\\views\\shared\\vacancysummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab5.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab5\\lab1\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab5.csproj|solutionrelative:lab1\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab5.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab5\\lab1\\models\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab5.csproj|solutionrelative:lab1\\models\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab5.csproj|e:\\\u0432\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - asp.net\\lab5\\lab1\\models\\jobdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43412F6D-C30D-417E-A3A4-A60235937FB7}|Lab1\\Lab5.csproj|solutionrelative:lab1\\models\\jobdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,8 +102,7 @@
               "RelativeToolTip": "Lab1\\Controllers\\HomeController.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAQwDQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T14:44:44.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T14:44:44.033Z"
             },
             {
               "$type": "Document",
@@ -115,8 +114,7 @@
               "RelativeToolTip": "Lab1\\Views\\Account\\Profile.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-26T14:44:18.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T14:44:18.158Z"
             },
             {
               "$type": "Document",
@@ -128,12 +126,11 @@
               "RelativeToolTip": "Lab1\\Models\\ViewModels\\ProfileViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T14:44:01.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T14:44:01.961Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "PagingInfo.cs",
               "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab5\\Lab1\\Models\\ViewModels\\PagingInfo.cs",
               "RelativeDocumentMoniker": "Lab1\\Models\\ViewModels\\PagingInfo.cs",
@@ -141,12 +138,11 @@
               "RelativeToolTip": "Lab1\\Models\\ViewModels\\PagingInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T14:43:57.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T14:43:57.809Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "VacancyApiController.cs",
               "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab5\\Lab1\\Controllers\\VacancyApiController.cs",
               "RelativeDocumentMoniker": "Lab1\\Controllers\\VacancyApiController.cs",
@@ -154,12 +150,11 @@
               "RelativeToolTip": "Lab1\\Controllers\\VacancyApiController.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAAADQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T14:26:59.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T14:26:59.313Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "VacancyController.cs",
               "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab5\\Lab1\\Controllers\\VacancyController.cs",
               "RelativeDocumentMoniker": "Lab1\\Controllers\\VacancyController.cs",
@@ -167,12 +162,11 @@
               "RelativeToolTip": "Lab1\\Controllers\\VacancyController.cs",
               "ViewState": "AgIAAEsAAAAAAAAAAAAAwGIAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T14:23:34.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T14:23:34.669Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "LoginModel.cs",
               "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab5\\Lab1\\Models\\ViewModels\\LoginModel.cs",
               "RelativeDocumentMoniker": "Lab1\\Models\\ViewModels\\LoginModel.cs",
@@ -180,12 +174,11 @@
               "RelativeToolTip": "Lab1\\Models\\ViewModels\\LoginModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T14:20:13.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T14:20:13.213Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "RegisterModel.cs",
               "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab5\\Lab1\\Models\\ViewModels\\RegisterModel.cs",
               "RelativeDocumentMoniker": "Lab1\\Models\\ViewModels\\RegisterModel.cs",
@@ -193,12 +186,11 @@
               "RelativeToolTip": "Lab1\\Models\\ViewModels\\RegisterModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T14:17:02.991Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T14:17:02.991Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab5\\Lab1\\appsettings.json",
               "RelativeDocumentMoniker": "Lab1\\appsettings.json",
@@ -206,12 +198,11 @@
               "RelativeToolTip": "Lab1\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-26T14:08:38.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T14:08:38.621Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab5\\Lab1\\Program.cs",
               "RelativeDocumentMoniker": "Lab1\\Program.cs",
@@ -219,12 +210,11 @@
               "RelativeToolTip": "Lab1\\Program.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T14:02:19.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T14:02:19.489Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 11,
               "Title": "MyApplications.cshtml",
               "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab5\\Lab1\\Views\\Vacancy\\MyApplications.cshtml",
               "RelativeDocumentMoniker": "Lab1\\Views\\Vacancy\\MyApplications.cshtml",
@@ -232,12 +222,11 @@
               "RelativeToolTip": "Lab1\\Views\\Vacancy\\MyApplications.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-18T14:45:19.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T14:45:19.619Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "Default.cshtml",
               "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab5\\Lab1\\Views\\Shared\\Components\\NavigationMenuViewComponent\\Default.cshtml",
               "RelativeDocumentMoniker": "Lab1\\Views\\Shared\\Components\\NavigationMenuViewComponent\\Default.cshtml",
@@ -245,12 +234,11 @@
               "RelativeToolTip": "Lab1\\Views\\Shared\\Components\\NavigationMenuViewComponent\\Default.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-18T14:45:07.993Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T14:45:07.993Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "AccountController.cs",
               "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab5\\Lab1\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Lab1\\Controllers\\AccountController.cs",
@@ -258,8 +246,7 @@
               "RelativeToolTip": "Lab1\\Controllers\\AccountController.cs",
               "ViewState": "AgIAAKAAAAAAAAAAAAAAwKkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T14:41:20.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T14:41:20.834Z"
             },
             {
               "$type": "Document",
@@ -276,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 14,
               "Title": "VacancySummary.cshtml",
               "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab5\\Lab1\\Views\\Shared\\VacancySummary.cshtml",
               "RelativeDocumentMoniker": "Lab1\\Views\\Shared\\VacancySummary.cshtml",
@@ -284,12 +271,11 @@
               "RelativeToolTip": "Lab1\\Views\\Shared\\VacancySummary.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-18T14:36:23.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T14:36:23.642Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab5\\Lab1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Lab1\\Views\\Home\\Index.cshtml",
@@ -297,8 +283,7 @@
               "RelativeToolTip": "Lab1\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAQAAAAAAAAAAAAQwCAAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-18T14:33:12.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T14:33:12.962Z"
             },
             {
               "$type": "Document",
@@ -310,8 +295,7 @@
               "RelativeToolTip": "Lab1\\Models\\SeedData.cs",
               "ViewState": "AgIAAEMAAAAAAAAAAABBwFMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T14:56:01.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T14:56:01.528Z"
             },
             {
               "$type": "Document",
@@ -323,12 +307,11 @@
               "RelativeToolTip": "Lab1\\Models\\IJobRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T14:55:24.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T14:55:24.463Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "JobDbContext.cs",
               "DocumentMoniker": "E:\\\u0412\u0438\u0431\u0456\u0440\u043A\u043E\u0432\u0430 - ASP.NET\\Lab5\\Lab1\\Models\\JobDbContext.cs",
               "RelativeDocumentMoniker": "Lab1\\Models\\JobDbContext.cs",
@@ -336,8 +319,7 @@
               "RelativeToolTip": "Lab1\\Models\\JobDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T14:54:16.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T14:54:16.454Z"
             }
           ]
         }
