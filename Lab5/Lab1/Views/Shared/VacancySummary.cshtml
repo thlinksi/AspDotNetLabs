@@ -1,0 +1,23 @@
+﻿@model Lab5.Models.ViewModels.VacancyViewModel
+
+<div class="product-item">
+    <div>
+        <h3>@Model.Title</h3>
+        <p>Description: @Model.Description</p>
+        <p>Company: @Model.Company</p>
+        <p>Salary: @Model.Salary.ToString("N2") €</p>
+        <p>Category: @Model.Category</p>
+    </div>
+    <div>
+        @if (User.Identity.IsAuthenticated && User.IsInRole("User"))
+        {
+            <a class="btn btn-success" asp-controller="Vacancy" asp-action="Apply" asp-route-id="@Model.VacancyId">Apply</a>
+        }
+        @if (User.IsInRole("Admin"))
+        {
+            <a class="btn btn-info" asp-controller="Vacancy" asp-action="Details" asp-route-id="@Model.VacancyId">Details</a>
+            <a class="btn btn-primary" asp-controller="Vacancy" asp-action="Edit" asp-route-id="@Model.VacancyId">Edit</a>
+            <a class="btn btn-danger" asp-controller="Vacancy" asp-action="Delete" asp-route-id="@Model.VacancyId">Delete</a>
+        }
+    </div>
+</div>
