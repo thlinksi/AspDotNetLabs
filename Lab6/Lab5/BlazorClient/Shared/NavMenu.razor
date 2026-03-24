@@ -1,0 +1,57 @@
+﻿<div class="top-row ps-3 navbar navbar-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="">BlazorClient</a>
+    </div>
+</div>
+
+<div class="nav-scrollable">
+    <nav class="flex-column">
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+                <span class="bi bi-house-door-fill" aria-hidden="true"></span> Головна
+            </NavLink>
+        </div>
+
+        <AuthorizeView>
+            <Authorized>
+                @* Ці кнопки бачать ТІЛЬКИ авторизовані користувачі *@
+                <div class="nav-item px-3">
+                    <NavLink class="nav-link" href="vacancies">
+                        <span class="bi bi-list-nested" aria-hidden="true"></span> Вакансії
+                    </NavLink>
+                </div>
+                <div class="nav-item px-3">
+                    <a class="nav-link" style="cursor: pointer;" @onclick="Logout">
+                        <span class="bi bi-box-arrow-right" aria-hidden="true"></span> Вихід
+                    </a>
+                </div>
+            </Authorized>
+            <NotAuthorized>
+                @* Ці кнопки бачать ТІЛЬКИ гості *@
+                <div class="nav-item px-3">
+                    <NavLink class="nav-link" href="login">
+                        <span class="bi bi-person" aria-hidden="true"></span> Вхід
+                    </NavLink>
+                </div>
+                <div class="nav-item px-3">
+                    <NavLink class="nav-link" href="register">
+                        <span class="bi bi-person-plus" aria-hidden="true"></span> Реєстрація
+                    </NavLink>
+                </div>
+            </NotAuthorized>
+        </AuthorizeView>
+    </nav>
+</div>
+
+@code {
+    [Inject] IJSRuntime JSRuntime { get; set; } = default!;
+    [Inject] AuthenticationStateProvider AuthStateProvider { get; set; } = default!;
+    [Inject] NavigationManager Navigation { get; set; } = default!;
+
+    private async Task Logout()
+    {
+        await JSRuntime.InvokeVoidAsync("localStorage.removeItem", "jwtToken");
+        ((BlazorClient.Auth.CustomAuthStateProvider)AuthStateProvider).MarkUserAsLoggedOut();
+        Navigation.NavigateTo("/login");
+    }
+}

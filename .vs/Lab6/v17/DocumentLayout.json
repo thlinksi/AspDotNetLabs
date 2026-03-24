@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Lab6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Lab6\\Lab5\\Lab5 (2)\\WebAPI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab5\\Lab5 (2)\\WebAPI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Lab6\\Lab5\\Lab5 (2)\\WebAPI\\dy||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab5\\Lab5 (2)\\WebAPI\\dy||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Lab6\\Lab5\\Lab5 (2)\\WebAPI\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab5\\Lab5 (2)\\WebAPI\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Lab6\\Lab5\\Lab5 (2)\\WebAPI\\WebAPI.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab5\\Lab5 (2)\\WebAPI\\WebAPI.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Lab6\\Lab5\\BlazorClient\\Auth\\CustomAuthStateProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab5\\BlazorClient\\Auth\\CustomAuthStateProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Lab6\\Lab5\\BlazorClient\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab5\\BlazorClient\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dy",
+              "DocumentMoniker": "E:\\Lab6\\Lab5\\Lab5 (2)\\WebAPI\\dy",
+              "RelativeDocumentMoniker": "Lab5\\Lab5 (2)\\WebAPI\\dy",
+              "ToolTip": "E:\\Lab6\\Lab5\\Lab5 (2)\\WebAPI\\dy",
+              "RelativeToolTip": "Lab5\\Lab5 (2)\\WebAPI\\dy",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-23T17:37:47.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\Lab6\\Lab5\\Lab5 (2)\\WebAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Lab5\\Lab5 (2)\\WebAPI\\appsettings.Development.json",
+              "ToolTip": "E:\\Lab6\\Lab5\\Lab5 (2)\\WebAPI\\appsettings.Development.json",
+              "RelativeToolTip": "Lab5\\Lab5 (2)\\WebAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-23T17:37:45.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebAPI.http",
+              "DocumentMoniker": "E:\\Lab6\\Lab5\\Lab5 (2)\\WebAPI\\WebAPI.http",
+              "RelativeDocumentMoniker": "Lab5\\Lab5 (2)\\WebAPI\\WebAPI.http",
+              "ToolTip": "E:\\Lab6\\Lab5\\Lab5 (2)\\WebAPI\\WebAPI.http",
+              "RelativeToolTip": "Lab5\\Lab5 (2)\\WebAPI\\WebAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-03-23T17:37:41.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomAuthStateProvider.cs",
+              "DocumentMoniker": "E:\\Lab6\\Lab5\\BlazorClient\\Auth\\CustomAuthStateProvider.cs",
+              "RelativeDocumentMoniker": "Lab5\\BlazorClient\\Auth\\CustomAuthStateProvider.cs",
+              "ToolTip": "E:\\Lab6\\Lab5\\BlazorClient\\Auth\\CustomAuthStateProvider.cs",
+              "RelativeToolTip": "Lab5\\BlazorClient\\Auth\\CustomAuthStateProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T17:31:57.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Lab6\\Lab5\\BlazorClient\\Program.cs",
+              "RelativeDocumentMoniker": "Lab5\\BlazorClient\\Program.cs",
+              "ToolTip": "E:\\Lab6\\Lab5\\BlazorClient\\Program.cs",
+              "RelativeToolTip": "Lab5\\BlazorClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T17:31:16.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Lab6\\Lab5\\Lab5 (2)\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Lab5\\Lab5 (2)\\WebAPI\\Program.cs",
+              "ToolTip": "E:\\Lab6\\Lab5\\Lab5 (2)\\WebAPI\\Program.cs",
+              "RelativeToolTip": "Lab5\\Lab5 (2)\\WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T16:50:33.233Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

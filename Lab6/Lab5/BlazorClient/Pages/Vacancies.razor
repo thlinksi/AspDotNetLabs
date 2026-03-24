@@ -1,0 +1,104 @@
+﻿@page "/vacancies"
+@using BlazorClient.Models
+@using Microsoft.AspNetCore.Authorization
+@inject HttpClient Http
+@attribute [Authorize]
+
+<h3>Вакансії</h3>
+
+@if (!string.IsNullOrEmpty(errorMessage))
+{
+    <div class="alert alert-danger mb-3">@errorMessage</div>
+}
+
+@if (vacancies == null && string.IsNullOrEmpty(errorMessage))
+{
+    <p><em>Завантаження...</em></p>
+}
+else if (vacancies != null)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Назва</th>
+                <th>Опис</th>
+                <AuthorizeView Roles="Admin">
+                    <Authorized Context="authContext">
+                        <th>Дії</th>
+                    </Authorized>
+                </AuthorizeView>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var vac in vacancies)
+            {
+                <tr>
+                    <td>@vac.Id</td>
+                    <td>@vac.Title</td>
+                    <td>@vac.Description</td>
+                    <AuthorizeView Roles="Admin">
+                        <Authorized Context="authContext">
+                            <td>
+                                <button class="btn btn-danger btn-sm" @onclick="() => DeleteVacancy(vac.Id)">Видалити</button>
+                            </td>
+                        </Authorized>
+                    </AuthorizeView>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <AuthorizeView Roles="Admin">
+        <Authorized Context="authContext">
+            <hr />
+            <h4>Додати вакансію</h4>
+            <EditForm Model="newVacancy" OnValidSubmit="AddVacancy">
+                <DataAnnotationsValidator />
+                <div class="mb-2">
+                    <InputText class="form-control" placeholder="Назва" @bind-Value="newVacancy.Title" />
+                    <ValidationMessage For="@(() => newVacancy.Title)" class="text-danger" />
+                </div>
+                <div class="mb-2">
+                    <InputText class="form-control" placeholder="Опис" @bind-Value="newVacancy.Description" />
+                    <ValidationMessage For="@(() => newVacancy.Description)" class="text-danger" />
+                </div>
+                <button type="submit" class="btn btn-primary">Зберегти</button>
+            </EditForm>
+        </Authorized>
+    </AuthorizeView>
+}
+
+@code {
+    private List<Vacancy>? vacancies;
+    private Vacancy newVacancy = new();
+    private string errorMessage = string.Empty;
+
+    protected override async Task OnInitializedAsync() => await LoadData();
+
+    private async Task LoadData()
+    {
+        try
+        {
+            errorMessage = string.Empty;
+            vacancies = await Http.GetFromJsonAsync<List<Vacancy>>("api/vacancyapi");
+        }
+        catch (Exception ex) { errorMessage = $"Помилка: {ex.Message}"; }
+    }
+
+    private async Task AddVacancy()
+    {
+        var res = await Http.PostAsJsonAsync("api/vacancyapi", newVacancy);
+        if (res.IsSuccessStatusCode)
+        {
+            newVacancy = new Vacancy();
+            await LoadData();
+        }
+    }
+
+    private async Task DeleteVacancy(int id)
+    {
+        var res = await Http.DeleteAsync($"api/vacancyapi/{id}");
+        if (res.IsSuccessStatusCode) await LoadData();
+    }
+}

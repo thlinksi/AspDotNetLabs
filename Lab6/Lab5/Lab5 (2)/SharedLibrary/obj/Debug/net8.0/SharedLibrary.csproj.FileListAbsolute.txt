@@ -1,0 +1,37 @@
+E:\Вибіркова - ASP.NET\Lab5 (1)\Lab5\SharedLibrary\bin\Debug\net8.0\SharedLibrary.deps.json
+E:\Вибіркова - ASP.NET\Lab5 (1)\Lab5\SharedLibrary\bin\Debug\net8.0\SharedLibrary.dll
+E:\Вибіркова - ASP.NET\Lab5 (1)\Lab5\SharedLibrary\bin\Debug\net8.0\SharedLibrary.pdb
+E:\Вибіркова - ASP.NET\Lab5 (1)\Lab5\SharedLibrary\obj\Debug\net8.0\SharedLibrary.csproj.AssemblyReference.cache
+E:\Вибіркова - ASP.NET\Lab5 (1)\Lab5\SharedLibrary\obj\Debug\net8.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Вибіркова - ASP.NET\Lab5 (1)\Lab5\SharedLibrary\obj\Debug\net8.0\SharedLibrary.AssemblyInfoInputs.cache
+E:\Вибіркова - ASP.NET\Lab5 (1)\Lab5\SharedLibrary\obj\Debug\net8.0\SharedLibrary.AssemblyInfo.cs
+E:\Вибіркова - ASP.NET\Lab5 (1)\Lab5\SharedLibrary\obj\Debug\net8.0\SharedLibrary.csproj.CoreCompileInputs.cache
+E:\Вибіркова - ASP.NET\Lab5 (1)\Lab5\SharedLibrary\obj\Debug\net8.0\SharedLibrary.dll
+E:\Вибіркова - ASP.NET\Lab5 (1)\Lab5\SharedLibrary\obj\Debug\net8.0\refint\SharedLibrary.dll
+E:\Вибіркова - ASP.NET\Lab5 (1)\Lab5\SharedLibrary\obj\Debug\net8.0\SharedLibrary.pdb
+E:\Вибіркова - ASP.NET\Lab5 (1)\Lab5\SharedLibrary\obj\Debug\net8.0\ref\SharedLibrary.dll
+E:\Вибіркова - ASP.NET\Lab5\Lab5\SharedLibrary\bin\Debug\net8.0\SharedLibrary.deps.json
+E:\Вибіркова - ASP.NET\Lab5\Lab5\SharedLibrary\bin\Debug\net8.0\SharedLibrary.dll
+E:\Вибіркова - ASP.NET\Lab5\Lab5\SharedLibrary\bin\Debug\net8.0\SharedLibrary.pdb
+E:\Вибіркова - ASP.NET\Lab5\Lab5\SharedLibrary\obj\Debug\net8.0\SharedLibrary.csproj.AssemblyReference.cache
+E:\Вибіркова - ASP.NET\Lab5\Lab5\SharedLibrary\obj\Debug\net8.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Вибіркова - ASP.NET\Lab5\Lab5\SharedLibrary\obj\Debug\net8.0\SharedLibrary.AssemblyInfoInputs.cache
+E:\Вибіркова - ASP.NET\Lab5\Lab5\SharedLibrary\obj\Debug\net8.0\SharedLibrary.AssemblyInfo.cs
+E:\Вибіркова - ASP.NET\Lab5\Lab5\SharedLibrary\obj\Debug\net8.0\SharedLibrary.csproj.CoreCompileInputs.cache
+E:\Вибіркова - ASP.NET\Lab5\Lab5\SharedLibrary\obj\Debug\net8.0\SharedLibrary.dll
+E:\Вибіркова - ASP.NET\Lab5\Lab5\SharedLibrary\obj\Debug\net8.0\refint\SharedLibrary.dll
+E:\Вибіркова - ASP.NET\Lab5\Lab5\SharedLibrary\obj\Debug\net8.0\SharedLibrary.pdb
+E:\Вибіркова - ASP.NET\Lab5\Lab5\SharedLibrary\obj\Debug\net8.0\ref\SharedLibrary.dll
+E:\Lab6\Lab5\Lab5 (2)\SharedLibrary\bin\Debug\net8.0\SharedLibrary.deps.json
+E:\Lab6\Lab5\Lab5 (2)\SharedLibrary\bin\Debug\net8.0\SharedLibrary.dll
+E:\Lab6\Lab5\Lab5 (2)\SharedLibrary\bin\Debug\net8.0\SharedLibrary.pdb
+E:\Lab6\Lab5\Lab5 (2)\SharedLibrary\obj\Debug\net8.0\SharedLibrary.csproj.AssemblyReference.cache
+E:\Lab6\Lab5\Lab5 (2)\SharedLibrary\obj\Debug\net8.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lab6\Lab5\Lab5 (2)\SharedLibrary\obj\Debug\net8.0\SharedLibrary.AssemblyInfoInputs.cache
+E:\Lab6\Lab5\Lab5 (2)\SharedLibrary\obj\Debug\net8.0\SharedLibrary.AssemblyInfo.cs
+E:\Lab6\Lab5\Lab5 (2)\SharedLibrary\obj\Debug\net8.0\SharedLibrary.csproj.CoreCompileInputs.cache
+E:\Lab6\Lab5\Lab5 (2)\SharedLibrary\obj\Debug\net8.0\SharedLibrary.sourcelink.json
+E:\Lab6\Lab5\Lab5 (2)\SharedLibrary\obj\Debug\net8.0\SharedLibrary.dll
+E:\Lab6\Lab5\Lab5 (2)\SharedLibrary\obj\Debug\net8.0\refint\SharedLibrary.dll
+E:\Lab6\Lab5\Lab5 (2)\SharedLibrary\obj\Debug\net8.0\SharedLibrary.pdb
+E:\Lab6\Lab5\Lab5 (2)\SharedLibrary\obj\Debug\net8.0\ref\SharedLibrary.dll

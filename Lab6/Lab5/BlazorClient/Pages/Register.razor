@@ -1,0 +1,70 @@
+﻿@page "/register"
+@using BlazorClient.Models
+@inject HttpClient Http
+@inject NavigationManager Navigation
+
+<h3>Реєстрація</h3>
+
+<EditForm Model="newUser" OnValidSubmit="HandleRegister">
+    <DataAnnotationsValidator />
+    <ValidationSummary class="text-danger" />
+
+    <div class="mb-3">
+        <label>Логін (Username)</label>
+        <InputText class="form-control" @bind-Value="newUser.Username" />
+        <ValidationMessage For="@(() => newUser.Username)" class="text-danger" />
+    </div>
+
+    <div class="mb-3">
+        <label>Електронна пошта (Email)</label>
+        <InputText type="email" class="form-control" @bind-Value="newUser.Email" />
+        <ValidationMessage For="@(() => newUser.Email)" class="text-danger" />
+    </div>
+
+    <div class="mb-3">
+        <label>Пароль</label>
+        <InputText type="password" class="form-control" @bind-Value="newUser.Password" />
+        <ValidationMessage For="@(() => newUser.Password)" class="text-danger" />
+    </div>
+
+    <div class="mb-3">
+        <label>Оберіть вашу роль</label>
+        <InputSelect class="form-control" @bind-Value="newUser.Role">
+            <option value="User">Звичайний користувач</option>
+            <option value="Admin">Адміністратор</option>
+        </InputSelect>
+    </div>
+
+    <button type="submit" class="btn btn-success">Зареєструватися</button>
+</EditForm>
+
+@if (!string.IsNullOrEmpty(message))
+{
+    <div class="alert alert-danger mt-3">@message</div>
+}
+
+@code {
+    private User newUser = new();
+    private string message = string.Empty;
+
+    private async Task HandleRegister()
+    {
+        try
+        {
+            var response = await Http.PostAsJsonAsync("api/Users", newUser);
+
+            if (response.IsSuccessStatusCode)
+            {
+                Navigation.NavigateTo("/login");
+            }
+            else
+            {
+                message = "Помилка реєстрації. Перевірте правильність даних.";
+            }
+        }
+        catch (Exception ex)
+        {
+            message = "Помилка з'єднання з сервером.";
+        }
+    }
+}

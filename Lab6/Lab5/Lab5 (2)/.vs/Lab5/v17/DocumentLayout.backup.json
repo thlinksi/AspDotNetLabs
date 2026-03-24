@@ -1,0 +1,387 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Lab6\\Lab5\\Lab5 (2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD25DCB-5688-4748-8778-5809406CAB24}|WebAPI\\WebAPI.csproj|e:\\lab6\\lab5\\lab5 (2)\\webapi\\webapi\\controllers\\vacancyapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCD25DCB-5688-4748-8778-5809406CAB24}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi\\controllers\\vacancyapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D50199-E89C-4EEF-8C51-BF925CEBA67D}|SharedLibrary\\SharedLibrary.csproj|e:\\lab6\\lab5\\lab5 (2)\\sharedlibrary\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D50199-E89C-4EEF-8C51-BF925CEBA67D}|SharedLibrary\\SharedLibrary.csproj|solutionrelative:sharedlibrary\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D50199-E89C-4EEF-8C51-BF925CEBA67D}|SharedLibrary\\SharedLibrary.csproj|e:\\lab6\\lab5\\lab5 (2)\\sharedlibrary\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D50199-E89C-4EEF-8C51-BF925CEBA67D}|SharedLibrary\\SharedLibrary.csproj|solutionrelative:sharedlibrary\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D50199-E89C-4EEF-8C51-BF925CEBA67D}|SharedLibrary\\SharedLibrary.csproj|e:\\lab6\\lab5\\lab5 (2)\\sharedlibrary\\models\\vacancy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D50199-E89C-4EEF-8C51-BF925CEBA67D}|SharedLibrary\\SharedLibrary.csproj|solutionrelative:sharedlibrary\\models\\vacancy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD25DCB-5688-4748-8778-5809406CAB24}|WebAPI\\WebAPI.csproj|e:\\lab6\\lab5\\lab5 (2)\\webapi\\webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCD25DCB-5688-4748-8778-5809406CAB24}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D50199-E89C-4EEF-8C51-BF925CEBA67D}|SharedLibrary\\SharedLibrary.csproj|e:\\lab6\\lab5\\lab5 (2)\\sharedlibrary\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D50199-E89C-4EEF-8C51-BF925CEBA67D}|SharedLibrary\\SharedLibrary.csproj|solutionrelative:sharedlibrary\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D50199-E89C-4EEF-8C51-BF925CEBA67D}|SharedLibrary\\SharedLibrary.csproj|e:\\lab6\\lab5\\lab5 (2)\\sharedlibrary\\migrations\\20250512154053_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D50199-E89C-4EEF-8C51-BF925CEBA67D}|SharedLibrary\\SharedLibrary.csproj|solutionrelative:sharedlibrary\\migrations\\20250512154053_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D50199-E89C-4EEF-8C51-BF925CEBA67D}|SharedLibrary\\SharedLibrary.csproj|e:\\lab6\\lab5\\lab5 (2)\\sharedlibrary\\migrations\\20260324085739_addvacancies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D50199-E89C-4EEF-8C51-BF925CEBA67D}|SharedLibrary\\SharedLibrary.csproj|solutionrelative:sharedlibrary\\migrations\\20260324085739_addvacancies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D50199-E89C-4EEF-8C51-BF925CEBA67D}|SharedLibrary\\SharedLibrary.csproj|e:\\lab6\\lab5\\lab5 (2)\\sharedlibrary\\migrations\\20260324093530_addroletouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D50199-E89C-4EEF-8C51-BF925CEBA67D}|SharedLibrary\\SharedLibrary.csproj|solutionrelative:sharedlibrary\\migrations\\20260324093530_addroletouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D50199-E89C-4EEF-8C51-BF925CEBA67D}|SharedLibrary\\SharedLibrary.csproj|e:\\lab6\\lab5\\lab5 (2)\\sharedlibrary\\migrations\\20260324095930_addfullmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D50199-E89C-4EEF-8C51-BF925CEBA67D}|SharedLibrary\\SharedLibrary.csproj|solutionrelative:sharedlibrary\\migrations\\20260324095930_addfullmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD25DCB-5688-4748-8778-5809406CAB24}|WebAPI\\WebAPI.csproj|e:\\lab6\\lab5\\lab5 (2)\\webapi\\webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCD25DCB-5688-4748-8778-5809406CAB24}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD25DCB-5688-4748-8778-5809406CAB24}|WebAPI\\WebAPI.csproj|e:\\lab6\\lab5\\lab5 (2)\\webapi\\webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BCD25DCB-5688-4748-8778-5809406CAB24}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D50199-E89C-4EEF-8C51-BF925CEBA67D}|SharedLibrary\\SharedLibrary.csproj|e:\\lab6\\lab5\\lab5 (2)\\sharedlibrary\\sharedlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E4D50199-E89C-4EEF-8C51-BF925CEBA67D}|SharedLibrary\\SharedLibrary.csproj|solutionrelative:sharedlibrary\\sharedlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD25DCB-5688-4748-8778-5809406CAB24}|WebAPI\\WebAPI.csproj|e:\\lab6\\lab5\\lab5 (2)\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCD25DCB-5688-4748-8778-5809406CAB24}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD25DCB-5688-4748-8778-5809406CAB24}|WebAPI\\WebAPI.csproj|e:\\lab6\\lab5\\lab5 (2)\\webapi\\webapi\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCD25DCB-5688-4748-8778-5809406CAB24}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD25DCB-5688-4748-8778-5809406CAB24}|WebAPI\\WebAPI.csproj|e:\\lab6\\lab5\\lab5 (2)\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BCD25DCB-5688-4748-8778-5809406CAB24}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD25DCB-5688-4748-8778-5809406CAB24}|WebAPI\\WebAPI.csproj|e:\\lab6\\lab5\\lab5 (2)\\webapi\\webapi.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BCD25DCB-5688-4748-8778-5809406CAB24}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD25DCB-5688-4748-8778-5809406CAB24}|WebAPI\\WebAPI.csproj|e:\\lab6\\lab5\\lab5 (2)\\webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{BCD25DCB-5688-4748-8778-5809406CAB24}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D50199-E89C-4EEF-8C51-BF925CEBA67D}|SharedLibrary\\SharedLibrary.csproj|e:\\lab6\\lab5\\lab5 (2)\\sharedlibrary\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D50199-E89C-4EEF-8C51-BF925CEBA67D}|SharedLibrary\\SharedLibrary.csproj|solutionrelative:sharedlibrary\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D50199-E89C-4EEF-8C51-BF925CEBA67D}|SharedLibrary\\SharedLibrary.csproj|e:\\lab6\\lab5\\lab5 (2)\\sharedlibrary\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D50199-E89C-4EEF-8C51-BF925CEBA67D}|SharedLibrary\\SharedLibrary.csproj|solutionrelative:sharedlibrary\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD25DCB-5688-4748-8778-5809406CAB24}|WebAPI\\WebAPI.csproj|e:\\lab6\\lab5\\lab5 (2)\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BCD25DCB-5688-4748-8778-5809406CAB24}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Lab6\\Lab5\\Lab5 (2)\\SharedLibrary\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SharedLibrary\\Models\\User.cs",
+              "ToolTip": "E:\\Lab6\\Lab5\\Lab5 (2)\\SharedLibrary\\Models\\User.cs",
+              "RelativeToolTip": "SharedLibrary\\Models\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:54:29.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\Lab6\\Lab5\\Lab5 (2)\\SharedLibrary\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "SharedLibrary\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "E:\\Lab6\\Lab5\\Lab5 (2)\\SharedLibrary\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "SharedLibrary\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T15:29:20.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vacancy.cs",
+              "DocumentMoniker": "E:\\Lab6\\Lab5\\Lab5 (2)\\SharedLibrary\\Models\\Vacancy.cs",
+              "RelativeDocumentMoniker": "SharedLibrary\\Models\\Vacancy.cs",
+              "ToolTip": "E:\\Lab6\\Lab5\\Lab5 (2)\\SharedLibrary\\Models\\Vacancy.cs",
+              "RelativeToolTip": "SharedLibrary\\Models\\Vacancy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T08:43:59.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\Lab6\\Lab5\\Lab5 (2)\\WebAPI\\WebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\Lab6\\Lab5\\Lab5 (2)\\WebAPI\\WebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebAPI\\WebAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:58:38.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\Lab6\\Lab5\\Lab5 (2)\\SharedLibrary\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SharedLibrary\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\Lab6\\Lab5\\Lab5 (2)\\SharedLibrary\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "SharedLibrary\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:56:37.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VacancyApiController.cs",
+              "DocumentMoniker": "E:\\Lab6\\Lab5\\Lab5 (2)\\WebAPI\\WebAPI\\Controllers\\VacancyApiController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI\\Controllers\\VacancyApiController.cs",
+              "ToolTip": "E:\\Lab6\\Lab5\\Lab5 (2)\\WebAPI\\WebAPI\\Controllers\\VacancyApiController.cs*",
+              "RelativeToolTip": "WebAPI\\WebAPI\\Controllers\\VacancyApiController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T08:45:20.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAALsTAAAAAAAAAAAcwMYTAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-05-12T15:05:16.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250512154053_InitialCreate.cs",
+              "DocumentMoniker": "E:\\Lab6\\Lab5\\Lab5 (2)\\SharedLibrary\\Migrations\\20250512154053_InitialCreate.cs",
+              "RelativeDocumentMoniker": "SharedLibrary\\Migrations\\20250512154053_InitialCreate.cs",
+              "ToolTip": "E:\\Lab6\\Lab5\\Lab5 (2)\\SharedLibrary\\Migrations\\20250512154053_InitialCreate.cs",
+              "RelativeToolTip": "SharedLibrary\\Migrations\\20250512154053_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T09:59:49.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260324085739_AddVacancies.cs",
+              "DocumentMoniker": "E:\\Lab6\\Lab5\\Lab5 (2)\\SharedLibrary\\Migrations\\20260324085739_AddVacancies.cs",
+              "RelativeDocumentMoniker": "SharedLibrary\\Migrations\\20260324085739_AddVacancies.cs",
+              "ToolTip": "E:\\Lab6\\Lab5\\Lab5 (2)\\SharedLibrary\\Migrations\\20260324085739_AddVacancies.cs",
+              "RelativeToolTip": "SharedLibrary\\Migrations\\20260324085739_AddVacancies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T09:59:46.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260324093530_AddRoleToUser.cs",
+              "DocumentMoniker": "E:\\Lab6\\Lab5\\Lab5 (2)\\SharedLibrary\\Migrations\\20260324093530_AddRoleToUser.cs",
+              "RelativeDocumentMoniker": "SharedLibrary\\Migrations\\20260324093530_AddRoleToUser.cs",
+              "ToolTip": "E:\\Lab6\\Lab5\\Lab5 (2)\\SharedLibrary\\Migrations\\20260324093530_AddRoleToUser.cs",
+              "RelativeToolTip": "SharedLibrary\\Migrations\\20260324093530_AddRoleToUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T09:59:43.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260324095930_AddFullModels.cs",
+              "DocumentMoniker": "E:\\Lab6\\Lab5\\Lab5 (2)\\SharedLibrary\\Migrations\\20260324095930_AddFullModels.cs",
+              "RelativeDocumentMoniker": "SharedLibrary\\Migrations\\20260324095930_AddFullModels.cs",
+              "ToolTip": "E:\\Lab6\\Lab5\\Lab5 (2)\\SharedLibrary\\Migrations\\20260324095930_AddFullModels.cs",
+              "RelativeToolTip": "SharedLibrary\\Migrations\\20260324095930_AddFullModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T09:59:42.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WebAPI",
+              "DocumentMoniker": "E:\\Lab6\\Lab5\\Lab5 (2)\\WebAPI\\WebAPI.csproj",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI.csproj",
+              "ToolTip": "E:\\Lab6\\Lab5\\Lab5 (2)\\WebAPI\\WebAPI.csproj",
+              "RelativeToolTip": "WebAPI\\WebAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-23T17:38:35.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "E:\\Lab6\\Lab5\\Lab5 (2)\\WebAPI\\WebAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI\\Controllers\\UsersController.cs",
+              "ToolTip": "E:\\Lab6\\Lab5\\Lab5 (2)\\WebAPI\\WebAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WebAPI\\WebAPI\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:59:18.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SharedLibrary.csproj",
+              "DocumentMoniker": "E:\\Lab6\\Lab5\\Lab5 (2)\\SharedLibrary\\SharedLibrary.csproj",
+              "RelativeDocumentMoniker": "SharedLibrary\\SharedLibrary.csproj",
+              "ToolTip": "E:\\Lab6\\Lab5\\Lab5 (2)\\SharedLibrary\\SharedLibrary.csproj",
+              "RelativeToolTip": "SharedLibrary\\SharedLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-12T14:54:32.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Lab6\\Lab5\\Lab5 (2)\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "E:\\Lab6\\Lab5\\Lab5 (2)\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:58:03.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WebAPI.http",
+              "DocumentMoniker": "E:\\Lab6\\Lab5\\Lab5 (2)\\WebAPI\\WebAPI.http",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI.http",
+              "ToolTip": "E:\\Lab6\\Lab5\\Lab5 (2)\\WebAPI\\WebAPI.http",
+              "RelativeToolTip": "WebAPI\\WebAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-12T14:57:08.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "E:\\Lab6\\Lab5\\Lab5 (2)\\WebAPI\\WebAPI\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI\\JwtSettings.cs",
+              "ToolTip": "E:\\Lab6\\Lab5\\Lab5 (2)\\WebAPI\\WebAPI\\JwtSettings.cs",
+              "RelativeToolTip": "WebAPI\\WebAPI\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:57:50.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WebAPI.csproj",
+              "DocumentMoniker": "E:\\Lab6\\Lab5\\Lab5 (2)\\WebAPI\\WebAPI.csproj",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI.csproj",
+              "ToolTip": "E:\\Lab6\\Lab5\\Lab5 (2)\\WebAPI\\WebAPI.csproj",
+              "RelativeToolTip": "WebAPI\\WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-12T14:57:42.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WebAPI.csproj.Backup.tmp",
+              "DocumentMoniker": "E:\\Lab6\\Lab5\\Lab5 (2)\\WebAPI\\WebAPI.csproj.Backup.tmp",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI.csproj.Backup.tmp",
+              "ToolTip": "E:\\Lab6\\Lab5\\Lab5 (2)\\WebAPI\\WebAPI.csproj.Backup.tmp",
+              "RelativeToolTip": "WebAPI\\WebAPI.csproj.Backup.tmp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-12T15:01:44.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Lab6\\Lab5\\Lab5 (2)\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "E:\\Lab6\\Lab5\\Lab5 (2)\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-12T14:57:10.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\Lab6\\Lab5\\Lab5 (2)\\SharedLibrary\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "SharedLibrary\\Repositories\\UserRepository.cs",
+              "ToolTip": "E:\\Lab6\\Lab5\\Lab5 (2)\\SharedLibrary\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "SharedLibrary\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:56:14.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "E:\\Lab6\\Lab5\\Lab5 (2)\\SharedLibrary\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "SharedLibrary\\Repositories\\IUserRepository.cs",
+              "ToolTip": "E:\\Lab6\\Lab5\\Lab5 (2)\\SharedLibrary\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "SharedLibrary\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:55:38.055Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
